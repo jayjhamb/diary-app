@@ -35,10 +35,9 @@ Adding your own theme
     - Insert a new theme button in index.html
     - Update theme handling logic in assets/js/themeManager.js
 
-<img width="930" height="743" alt="image" src="https://github.com/user-attachments/assets/91b6335a-f7f3-45fd-8d52-e15be4ae1ff9" />
-<img width="930" height="743" alt="image" src="https://github.com/user-attachments/assets/7a346510-f5a5-4322-afc5-e6c38f90a6fa" />
-<img width="930" height="743" alt="image" src="https://github.com/user-attachments/assets/a9632749-b590-4a5b-b59d-7cbabf92282e" />
+    
 
+<img width="930" height="743" alt="image" src="https://github.com/user-attachments/assets/91b6335a-f7f3-45fd-8d52-e15be4ae1ff9" />
 
 
 
