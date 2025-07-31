@@ -1,38 +1,38 @@
-diary-app
+# Diary App
 
-web-based application for note-taking and journaling with aesthetic
+Aesthetic web-based journaling app designed for note-taking. Allows users to journal, track moods, and personalize their experience through theme selection.
 
-current features:
-- interface for daily journaling
-- three themes: dark mode, light mode, cafe mode
-- mood tracking with emoji selectors
-- real-time word counter
-- local storage for themes
+## Features
 
-to get started:
+- Interface for Daily Journaling
+- Theme Selection -- Dark, Light, Cafe
+- Mood Tracking
+- Live Word Counter
+- Theme Storage
 
-1) clone the repository
+## Starting the App
 
-git clone https://github.com/yourusername/diary-app.git
-cd diary-app
+1) Clone the Repository
+    git clone https://github.com/yourusername/diary-app.git
+    cd diary-app
 
-2) open application
+2) Launch the App
+    Open index.html in your browser.
 
-open index.html in web browser
-no build process or dependencies needed as of v0.1
+3) Start Journaling :)
 
-3) start journaling!
+Currently functional on:
+- Chrome
+- Firefox
+- Safari
+- Microsoft Edge
+- Mobile Browsers
 
+## Personalization
 
-browser support:
-chrome, firefox, safari, edge, mobile browsers
+Adding your own theme
+    - Add your custom CSS rules to assets/css/themes.css
+    - Insert a new theme button in index.html
+    - Update theme handling logic in assets/js/themeManager.js
 
-for further customization:
-
-adding new themes:
-1) add theme styles in assets/css/themes.css
-2) add theme button in index.html
-3) update theme logic in assets/js/themeManager.js
-
-currently working on entry history and calendar view
-
+Version v0.1
